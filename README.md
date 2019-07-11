@@ -13,3 +13,5 @@ http://quinonero.net/Publications/predicting-clicks-facebook.pdf
 
 GBDT is used for feature transformation while the LR uses the transformed data for prediction
 
+if you is looking for recomment algorithm ,maybe you can refer to the web:
+https://www.jianshu.com/p/96173f2c2fb4
